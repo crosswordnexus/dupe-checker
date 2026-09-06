@@ -1,0 +1,4 @@
+node_modules
+!dist/
+*.swp
+dist/dupe-checker.min.js.map
